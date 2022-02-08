@@ -1,1 +1,1 @@
-javascript; JSON.parse(localStorage.getItem("gameState")).solution; void 0;
+javascript; alert(JSON.parse(localStorage.getItem("gameState")).solution); void 0;
